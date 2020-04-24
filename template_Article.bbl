@@ -1,0 +1,569 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{bateman_comparison_multiple_sclerosis_2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BGA}{%
+         family={Bateman},
+         familyi={B\bibinitperiod},
+         given={Grant\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LSJ}{%
+         family={Lechner-Scott},
+         familyi={L\bibinithyphendelim S\bibinitperiod},
+         given={Jeannette},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LRA}{%
+         family={Lea},
+         familyi={L\bibinitperiod},
+         given={Rodney\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGALSJLRA1}
+    \strng{fullhash}{BGALSJLRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Background It has been suggested there is a chronic neurodegenerative
+  disorder, underlying the pathophysiology of multiple sclerosis ({MS}), which
+  is distinct from the more obvious immune-mediated attack on the white matter.
+  Limited data exists indicating there is an alteration in pulse wave
+  propagation within the craniospinal cavity in {MS}, similar to the findings
+  in normal pressure hydrocephalus ({NPH}). It is hypothesized {MS} may harbor
+  pulse wave encephalopathy. The purpose of this study is to compare blood flow
+  and pulse wave measurements in {MS} patients with a cohort of {NPH} patients
+  and control subjects, to test this hypothesis. Methods Twenty patients with
+  {MS} underwent magnetic resonance ({MR}) flow quantification techniques. Mean
+  blood flow and stroke volume were measured in the arterial inflow and venous
+  out flow from the sagittal ({SSS}) and straight sinus ({ST}). The
+  arteriovenous delay ({AVD}) was defined. The results were compared with both
+  age-matched controls and {NPH} patients. Results In {MS} there was a 35 \%
+  reduction in arteriovenous delay and a 5 \% reduction in the percentage of
+  the arterial inflow returning via the sagittal sinus compared to age matched
+  controls. There was an alteration in pulse wave propagation, with a 26 \%
+  increase in arterial stroke volume but 30 \% reduction in {SSS} and {ST}
+  stroke volume. The {AVD} and blood flow changes were in the same direction to
+  those of {NPH} patients. Conclusions There are blood flow and pulsation
+  propagation changes in {MS} patients which are similar to those of {NPH}
+  patients. The findings would be consistent with an underlying pulse wave
+  encephalopathy component in {MS}. Electronic supplementary material The
+  online version of this article (doi:10.1186/s12987-016-0041-2) contains
+  supplementary material, which is available to authorized users.%
+    }
+    \verb{doi}
+    \verb 10.1186/s12987-016-0041-2
+    \endverb
+    \field{issn}{2045-8118}
+    \field{shortjournal}{Fluids Barriers {CNS}}
+    \field{shorttitle}{A comparison between the pathophysiology of multiple
+  sclerosis and normal pressure hydrocephalus}
+    \field{title}{A comparison between the pathophysiology of multiple
+  sclerosis and normal pressure hydrocephalus: is pulse wave encephalopathy a
+  component of {MS}?}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034419/
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Fluids and Barriers of the {CNS}}
+    \field{day}{22}
+    \field{month}{09}
+    \field{year}{2016}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{mizutani_accelerated_diabetes_1996}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MM}{%
+         family={Mizutani},
+         familyi={M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KTS}{%
+         family={Kern},
+         familyi={K\bibinitperiod},
+         given={T.\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lorenzi},
+         familyi={L\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MMKTSLM1}
+    \strng{fullhash}{MMKTSLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1172/JCI118746
+    \endverb
+    \field{issn}{0021-9738}
+    \field{note}{Publisher: American Society for Clinical Investigation}
+    \field{number}{12}
+    \field{pages}{2883\bibrangedash 2890}
+    \field{shortjournal}{J Clin Invest}
+    \field{title}{Accelerated death of retinal microvascular cells in human and
+  experimental diabetic retinopathy.}
+    \verb{url}
+    \verb https://www.jci.org/articles/view/118746
+    \endverb
+    \field{volume}{97}
+    \field{langid}{english}
+    \field{journaltitle}{The Journal of Clinical Investigation}
+    \field{day}{15}
+    \field{month}{06}
+    \field{year}{1996}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{ostergaard_role_stroke_2013}{article}{}
+    \name{author}{29}{}{%
+      {{hash=sL}{%
+         family={Østergaard},
+         familyi={s\bibinitperiod},
+         given={Leif},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=JSN}{%
+         family={Jespersen},
+         familyi={J\bibinitperiod},
+         given={Sune\bibnamedelima Nørhøj},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Mouridsen},
+         familyi={M\bibinitperiod},
+         given={Kim},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MIK}{%
+         family={Mikkelsen},
+         familyi={M\bibinitperiod},
+         given={Irene\bibnamedelima Klærke},
+         giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=JKr}{%
+         family={Jonsdottír},
+         familyi={J\bibinitperiod},
+         given={Kristjana\bibnamedelima Ýr},
+         giveni={K\bibinitperiod\bibinitdelim r\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tietze},
+         familyi={T\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJU}{%
+         family={Blicher},
+         familyi={B\bibinitperiod},
+         given={Jakob\bibnamedelima Udby},
+         giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Aamand},
+         familyi={A\bibinitperiod},
+         given={Rasmus},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hjort},
+         familyi={H\bibinitperiod},
+         given={Niels},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=INK}{%
+         family={Iversen},
+         familyi={I\bibinitperiod},
+         given={Nina\bibnamedelima Kerting},
+         giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Changsi},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HKD}{%
+         family={Hougaard},
+         familyi={H\bibinitperiod},
+         given={Kristina\bibnamedelima Dupont},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SCZ}{%
+         family={Simonsen},
+         familyi={S\bibinitperiod},
+         given={Claus\bibnamedelima Z},
+         giveni={C\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=VWMP}{%
+         family={Von Weitzel-Mudersbach},
+         familyi={V\bibinitperiod\bibinitdelim W\bibinithyphendelim
+  M\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Modrau},
+         familyi={M\bibinitperiod},
+         given={Boris},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=NK}{%
+         family={Nagenthiraja},
+         familyi={N\bibinitperiod},
+         given={Kartheeban},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=RLR}{%
+         family={Ribe},
+         familyi={R\bibinitperiod},
+         given={Lars\bibnamedelima Riisgaard},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HMB}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Mikkel\bibnamedelima Bo},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BSL}{%
+         family={Bekke},
+         familyi={B\bibinitperiod},
+         given={Susanne\bibnamedelima Lise},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=DMG}{%
+         family={Dahlman},
+         familyi={D\bibinitperiod},
+         given={Martin\bibnamedelima Gervais},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Puig},
+         familyi={P\bibinitperiod},
+         given={Josep},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Pedraza},
+         familyi={P\bibinitperiod},
+         given={Salvador},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Serena},
+         familyi={S\bibinitperiod},
+         given={Joaquín},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CTH}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={Tae-Hee},
+         giveni={T\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Siemonsen},
+         familyi={S\bibinitperiod},
+         given={Susanne},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Thomalla},
+         familyi={T\bibinitperiod},
+         given={Götz},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Fiehler},
+         familyi={F\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NN}{%
+         family={Nighoghossian},
+         familyi={N\bibinitperiod},
+         given={Norbert},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Andersen},
+         familyi={A\bibinitperiod},
+         given={Grethe},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{sL+1}
+  \strng{fullhash}{sLJSNMKMIKJKrTABJUARHNINKCCHKDSCZVWMPMBNKRLRHMBBSLDMGPJPSSJCTHSSTGFJNNAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    The pathophysiology of cerebral ischemia is traditionally understood in
+  relation to reductions in cerebral blood flow ({CBF}). However, a recent
+  reanalysis of the flow-diffusion equation shows that increased capillary
+  transit time heterogeneity ({CTTH}) can reduce the oxygen extraction efficacy
+  in brain tissue for a given {CBF}. Changes in capillary morphology are
+  typical of conditions predisposing to stroke and of experimental ischemia.
+  Changes in capillary flow patterns have been observed by direct microscopy in
+  animal models of ischemia and by indirect methods in humans stroke, but their
+  metabolic significance remain unclear. We modeled the effects of progressive
+  increases in {CTTH} on the way in which brain tissue can secure sufficient
+  oxygen to meet its metabolic needs. Our analysis predicts that as {CTTH}
+  increases, {CBF} responses to functional activation and to vasodilators must
+  be suppressed to maintain sufficient tissue oxygenation. Reductions in {CBF},
+  increases in {CTTH}, and combinations thereof can seemingly trigger a
+  critical lack of oxygen in brain tissue, and the restoration of capillary
+  perfusion patterns therefore appears to be crucial for the restoration of the
+  tissue oxygenation after ischemic episodes. In this review, we discuss the
+  possible implications of these findings for the prevention, diagnosis, and
+  treatment of acute stroke.%
+    }
+    \verb{doi}
+    \verb 10.1038/jcbfm.2013.18
+    \endverb
+    \field{issn}{0271-678X}
+    \field{note}{Publisher: {SAGE} Publications Ltd {STM}}
+    \field{number}{5}
+    \field{pages}{635\bibrangedash 648}
+    \field{shortjournal}{J Cereb Blood Flow Metab}
+    \field{shorttitle}{The Role of the Cerebral Capillaries in Acute Ischemic
+  Stroke}
+    \field{title}{The Role of the Cerebral Capillaries in Acute Ischemic
+  Stroke: The Extended Penumbra Model}
+    \verb{url}
+    \verb https://doi.org/10.1038/jcbfm.2013.18
+    \endverb
+    \field{volume}{33}
+    \field{langid}{english}
+    \field{journaltitle}{Journal of Cerebral Blood Flow \& Metabolism}
+    \field{day}{01}
+    \field{month}{05}
+    \field{year}{2013}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{tam_noninvasive_2010}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TJ}{%
+         family={Tam},
+         familyi={T\bibinitperiod},
+         given={Johnny},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MJA}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Joy\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Roorda},
+         familyi={R\bibinitperiod},
+         given={Austin},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJMJARA1}
+    \strng{fullhash}{TJMJARA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1167/iovs.09-4483
+    \endverb
+    \field{issn}{1552-5783}
+    \field{note}{Publisher: The Association for Research in Vision and
+  Ophthalmology}
+    \field{number}{3}
+    \field{pages}{1691\bibrangedash 1698}
+    \field{shortjournal}{Invest. Ophthalmol. Vis. Sci.}
+    \field{title}{Noninvasive Visualization and Analysis of Parafoveal
+  Capillaries in Humans}
+    \verb{url}
+    \verb https://iovs.arvojournals.org/article.aspx?articleid=2165417
+    \endverb
+    \field{volume}{51}
+    \field{langid}{english}
+    \field{journaltitle}{Investigative Ophthalmology \& Visual Science}
+    \field{annotation}{%
+    Cited by 192  %
+    }
+    \field{day}{01}
+    \field{month}{03}
+    \field{year}{2010}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{de_la_torre_is_alzheimer_2004}{article}{}
+    \name{author}{1}{}{%
+      {{hash=dlTJC}{%
+         prefix={de\bibnamedelima la},
+         prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod},
+         family={Torre},
+         familyi={T\bibinitperiod},
+         given={Jack\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJCdl1}
+    \strng{fullhash}{TJCdl1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    The cause of Alzheimer's disease ({AD}) is unknown. This gap in knowledge
+  has created a stumbling block in the search for a genuinely effective
+  treatment or cure for this dementia. This article summarises the arguments
+  for a causal role for either amyloid deposition or cerebrovascular pathology
+  as the primary trigger in the development of non-genetic {AD}. A bare-bones
+  survey of the published research reveals no compelling evidence that amyloid
+  deposition is neurotoxic in human beings or that it results in
+  neurodegenerative changes involving synaptic, metabolic, or neuronal loss in
+  human or transgenic-mouse brains. By contrast, the data supporting {AD} as a
+  primary vascular disorder are more convincing. Findings suggesting a vascular
+  cause of {AD} come from epidemiological, neuroimaging, pathological,
+  pharmacotherapeutic, and clinical studies. The consensus of these studies
+  indicates that chronic brain hypoperfusion is linked to {AD} risk factors,
+  {AD} preclinical detection and pharmacotherapeutic action of {AD} symptoms.%
+    }
+    \verb{doi}
+    \verb 10.1016/S1474-4422(04)00683-0
+    \endverb
+    \field{issn}{1474-4422}
+    \field{number}{3}
+    \field{pages}{184\bibrangedash 190}
+    \field{shortjournal}{The Lancet Neurology}
+    \field{shorttitle}{Is Alzheimer's disease a neurodegenerative or a vascular
+  disorder?}
+    \field{title}{Is Alzheimer's disease a neurodegenerative or a vascular
+  disorder? Data, dogma, and dialectics}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S1474442204006830
+    \endverb
+    \field{volume}{3}
+    \field{langid}{english}
+    \field{journaltitle}{The Lancet Neurology}
+    \field{day}{01}
+    \field{month}{03}
+    \field{year}{2004}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{wolf_s_quantification_hypertension_1994}{article}{}
+    \name{author}{5}{}{%
+      {{hash=W}{%
+         family={{Wolf S}},
+         familyi={W\bibinitperiod},
+      }}%
+      {{hash=A}{%
+         family={{Arend O}},
+         familyi={A\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={{Schulte K}},
+         familyi={S\bibinitperiod},
+      }}%
+      {{hash=I}{%
+         family={{Ittel T H}},
+         familyi={I\bibinitperiod},
+      }}%
+      {{hash=R}{%
+         family={{Reim M}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W+1}
+    \strng{fullhash}{WASIR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Arterial hypertension is known to be an important risk factor for cerebral
+  and cardiovascular disease. Previous studies in rats have demonstrated that
+  changes in both capillary density and vessel diameter may contribute to
+  increased vascular resistance in hypertension. In vivo studies of human
+  subjects with essential hypertension revealed a reduction in the number of
+  arterioles in the skin and conjunctiva; no other in vivo data are available
+  from other tissues. By means of a new imaging technique, capillary density
+  and capillary blood flow velocity can now be assessed in the human retina. We
+  undertook the present investigation to determine whether patients with
+  essential hypertension and only minor clinical retinal vascular alterations
+  have decreased retinal capillary density and altered capillary flow velocity.
+  Seventeen hypertensive patients with only minor retinal vascular alterations
+  and 17 healthy volunteers matched for age were selected. All study
+  participants underwent ophthalmologic examination and fluorescein
+  angiographic studies by means of scanning laser ophthalmoscopy. Capillary
+  density and capillary blood flow velocity in the perifoveal network were
+  evaluated from the angiograms. The retinal microcirculation in the perifoveal
+  capillary network of hypertensive patients showed significant alterations.
+  Both the capillary density and capillary flow velocities were significantly
+  reduced compared with the control group. For the first time alterations of
+  capillary blood flow and capillary density in a vascular network very similar
+  to that of the brain have been demonstrated in hypertensive patients in vivo.
+  Further studies with this technique may help identify patients at high risk
+  for cerebrovascular diseases.%
+    }
+    \verb{doi}
+    \verb 10.1161/01.HYP.23.4.464
+    \endverb
+    \field{note}{Publisher: American Heart Association}
+    \field{number}{4}
+    \field{pages}{464\bibrangedash 467}
+    \field{shortjournal}{Hypertension}
+    \field{title}{Quantification of retinal capillary density and flow velocity
+  in patients with essential hypertension.}
+    \verb{url}
+    \verb https://www.ahajournals.org/doi/abs/10.1161/01.hyp.23.4.464
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{Hypertension}
+    \field{day}{01}
+    \field{month}{04}
+    \field{year}{1994}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+\enddatalist
+\endinput
