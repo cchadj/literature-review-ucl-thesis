@@ -47,7 +47,7 @@
 	issn = {2045-2322},
 	url = {https://www.nature.com/articles/s41598-017-07103-0},
 	doi = {10.1038/s41598-017-07103-0},
-	abstract = {Imaging with an adaptive optics scanning light ophthalmoscope ({AOSLO}) enables direct visualization of the cone photoreceptor mosaic in the living human retina. Quantitative analysis of {AOSLO} images typically requires manual grading, which is time consuming, and subjective; thus, automated algorithms are highly desirable. Previously developed automated methods are often reliant on ad hoc rules that may not be transferable between different imaging modalities or retinal locations. In this work, we present a convolutional neural network ({CNN}) based method for cone detection that learns features of interest directly from training data. This cone-identifying algorithm was trained and validated on separate data sets of confocal and split detector {AOSLO} images with results showing performance that closely mimics the gold standard manual process. Further, without any need for algorithmic modifications for a specific {AOSLO} imaging system, our fully-automated multi-modality {CNN}-based cone detection method resulted in comparable results to previous automatic cone segmentation methods which utilized ad hoc rules for different applications. We have made free open-source software for the proposed method and the corresponding training and testing datasets available online.},
+	abstract = {Imaging with an adaptive optics scanning light ophthalmoscope ({AOSLO}) enables direct visualization of the cone photoreceptor mosaic in the living human retina. Quantitative analysis of {AOSLO} images typically requires manual grading, which is time consuming, and subjective; thus, automated algorithms are highly desirable. Previously developed automated methods are often reliant on ad hoc rules that may not be transferable between different imaging modalities or retinal locations. In this work, we present a convolutional neural network ({CNN}) based method for cone detection that learns features of interest directly from training data. This cone-identifying algorithm was trained and validated on separate data sets of confocal and split detector {AOSLO} images with results showing performance that closely mimics the gold standard manual process. Further, without any need for algorithmic modifications for a specific {AOSLO} imaging system, our fully-automated multi-modality {CNN}-based cone detection method resulted in comparable results to previous automatic cone  methods which utilized ad hoc rules for different applications. We have made free open-source software for the proposed method and the corresponding training and testing datasets available online.},
 	pages = {1--11},
 	number = {1},
 	journaltitle = {Scientific Reports},
@@ -56,9 +56,35 @@
 	date = {2017-07-26},
 	langid = {english},
 	annotation = {https://github.com/{DavidCunefare}/{CNN}-Cone-Detection},
-	annotation = {Sugested by Adam
-Cited by 22}
 }
+
+@book{Goodfellow-et-al-2016,
+	title={Deep Learning},
+	author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+	publisher={MIT Press},
+	note={\url{http://www.deeplearningbook.org}},
+	year={2016}
+}
+
+@article{fang,
+	title = {Automatic segmentation of nine retinal layer boundaries in {OCT} images of non-exudative {AMD} patients using deep learning and graph search},
+	volume = {8},
+	rights = {\&\#169; 2017 Optical Society of America},
+	issn = {2156-7085},
+	url = {https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-5-2732},
+	doi = {10.1364/BOE.8.002732},
+	abstract = {We present a novel framework combining convolutional neural networks ({CNN}) and graph search methods (termed as {CNN}-{GS}) for the automatic segmentation of nine layer boundaries on retinal optical coherence tomography ({OCT}) images. {CNN}-{GS} first utilizes a {CNN} to extract features of specific retinal layer boundaries and train a corresponding classifier to delineate a pilot estimate of the eight layers. Next, a graph search method uses the probability maps created from the {CNN} to find the final boundaries. We validated our proposed method on 60 volumes (2915 B-scans) from 20 human eyes with non-exudative age-related macular degeneration ({AMD}), which attested to effectiveness of our proposed technique.},
+	pages = {2732--2744},
+	number = {5},
+	journaltitle = {Biomedical Optics Express},
+	shortjournal = {Biomed. Opt. Express, {BOE}},
+	author = {Fang, Leyuan and Cunefare, David and Wang, Chong and Guymer, Robyn H. and Li, Shutao and Farsiu, Sina},
+	urldate = {2020-04-26},
+	date = {2017-05-01},
+	note = {Publisher: Optical Society of America},
+	keywords = {Image analysis, Machine vision, Neural networks, Ophthalmic imaging, Optical coherence tomography, Retinal nerve fiber layer}
+}
+
 
 @article{ting_artificial_2019,
 	title = {Artificial intelligence and deep learning in ophthalmology},
@@ -256,6 +282,54 @@ Publisher: Nature Publishing Group}
 	date = {2009-06-14}
 }
 
+@article{martin_pulsatility_2009,
+	title = {Pulsatility of parafoveal capillary leukocytes},
+	volume = {88},
+	issn = {0014-4835},
+	url = {http://www.sciencedirect.com/science/article/pii/S0014483508002066},
+	doi = {10.1016/j.exer.2008.07.008},
+	abstract = {The use of adaptive optics ({AO}) in a confocal scanning laser ophthalmoscope ({AOSLO}) allows for long-term imaging of parafoveal capillary leukocyte movement and measurement of leukocyte velocity without contrast dyes. We applied the {AOSLO} to investigate the possible role of the cardiac cycle on capillary leukocyte velocity by directly measuring capillary leukocyte pulsatility. The parafoveal regions of 8 eight normal healthy subjects with clear ocular media were imaged with an {AOSLO}. All subjects were dilated and cyclopleged. The {AOSLO} field of view was either 1.4×1.5 degrees or 2.35×2.5 degrees, the imaging wavelength was 532nm and the frame rate was 30fps. A photoplethysmograph was used to record the subject's pulse synchronously with each {AOSLO} video. Parafoveal capillary leukocyte velocities and pulsatility were determined for two or three capillaries per subject. Leukocyte velocity and pulsatility were determined for all eight subjects. The mean parafoveal capillary leukocyte velocity for all subjects was Vmean=1.30mm/s ({SD}=±0.40mm/s). There was a statistically significant difference between leukocyte velocities, Vmax and Vmin, over the pulse cycle for each subject (p{\textless}0.05). The mean pulsatility was Pmean=0.45 (±0.09). Parafoveal capillary leukocyte pulsatility can be directly and non-invasively measured without the use of contrast dyes using an {AOSLO}. A substantial amount of the variation found in leukocyte velocity is due to the pulsatility that is induced by the cardiac cycle. By controlling for the variation in leukocyte velocity caused by the cardiac cycle, we can better detect other changes in retinal leukocyte velocity induced by disease or pharmaceutical agents.},
+	pages = {356--360},
+	number = {3},
+	journaltitle = {Experimental Eye Research},
+	shortjournal = {Experimental Eye Research},
+	author = {Martin, Joy A. and Roorda, Austin},
+	urldate = {2020-04-25},
+	date = {2009-03-01},
+	langid = {english},
+	keywords = {adaptive optics, blood flow, pulsatility, scanning laser ophthalmoscope}
+}
+
+@article{martin_direct_2005,
+	title = {Direct and Noninvasive Assessment of Parafoveal Capillary Leukocyte Velocity},
+	volume = {112},
+	issn = {0161-6420},
+	url = {http://www.sciencedirect.com/science/article/pii/S0161642005009115},
+	doi = {10.1016/j.ophtha.2005.06.033},
+	abstract = {Purpose
+	Alterations in leukocyte velocity have been implicated in many retinal disease processes. However, direct and objective assessment of leukocyte velocity in retinal capillaries has been limited by a reliance on invasive contrast dyes that allow leukocyte visualization only for a short time span. The recent application of adaptive optics in a scanning laser ophthalmoscope ({AOSLO}) has made long-term imaging of parafoveal leukocyte movement possible without contrast dyes. In this study, using the {AOSLO}, we demonstrate a new method to investigate retinal parafoveal capillary leukocyte velocity.
+	Design
+	Experimental study.
+	Participants
+	Six normal healthy subjects ranging from 25 to 35 years of age with clear ocular media.
+	Methods
+	The parafoveal zone of the retina was imaged in all subjects using an {AOSLO}.
+	Main Outcome Measures
+	Leukocyte velocity was determined in the parafoveal capillaries including the foveal avascular zone border. Leukocyte velocity was measured directly from movie segments in which the leukocytes were clearly visible.
+	Results
+	The mean parafoveal leukocyte velocity for 6 subjects was 1.37 mm/second, ranging from 0.77 to 2.10 mm/second. Leukocytes were not visible in all parafoveal capillaries.
+	Conclusions
+	Parafoveal capillary leukocyte velocity can be directly and noninvasively measured without the use of contrast dyes using an {AOSLO}.},
+	pages = {2219--2224},
+	number = {12},
+	journaltitle = {Ophthalmology},
+	shortjournal = {Ophthalmology},
+	author = {Martin, Joy A. and Roorda, Austin},
+	urldate = {2020-04-25},
+	date = {2005-12-01},
+	langid = {english}
+}
+
 @article{ciresan_deep_2010,
 	title = {Deep, Big, Simple Neural Nets for Handwritten Digit Recognition},
 	volume = {22},
@@ -311,19 +385,6 @@ Publisher: Nature Publishing Group}
 	keywords = {Current Frame, Discrete Cosine Transform, Discrete Fourier Transform, Optical Coherence Tomography, Retinal Pigment Epithelial Cell}
 }
 
-@article{perez_effectiveness_2017,
-	title = {The Effectiveness of Data Augmentation in Image Classification using Deep Learning},
-	url = {http://arxiv.org/abs/1712.04621},
-	abstract = {In this paper, we explore and compare multiple solutions to the problem of data augmentation in image classification. Previous work has demonstrated the effectiveness of data augmentation through simple techniques, such as cropping, rotating, and flipping input images. We artificially constrain our access to data to a small subset of the {ImageNet} dataset, and compare each data augmentation technique in turn. One of the more successful data augmentations strategies is the traditional transformations mentioned above. We also experiment with {GANs} to generate images of different styles. Finally, we propose a method to allow a neural net to learn augmentations that best improve the classifier, which we call neural augmentation. We discuss the successes and shortcomings of this method on various datasets.},
-	journaltitle = {{arXiv}:1712.04621 [cs]},
-	author = {Perez, Luis and Wang, Jason},
-	urldate = {2020-03-30},
-	date = {2017-12-13},
-	eprinttype = {arxiv},
-	eprint = {1712.04621},
-	keywords = {Computer Science - Computer Vision and Pattern Recognition},
-	annotation = {Comment: 8 pages, 12 figures}
-}
 
 @misc{yilmaz_object_2006,
 	title = {Object tracking: A survey},
@@ -372,6 +433,23 @@ Publisher: Nature Publishing Group}
  }
 }
 
+@article{tam_speed_2011,
+	title = {Speed quantification and tracking of moving objects in adaptive optics scanning laser ophthalmoscopy},
+	volume = {16},
+	issn = {1083-3668, 1560-2281},
+	url = {https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-16/issue-3/036002/Speed-quantification-and-tracking-of-moving-objects-in-adaptive-optics/10.1117/1.3548880.short},
+	doi = {10.1117/1.3548880},
+	abstract = {Microscopic features of the human retina can be resolved noninvasively using an adaptive optics scanning laser ophthalmoscope ({AOSLO}). We describe an improved method to track and quantify the speed of moving objects in {AOSLO} videos, which is necessary for characterizing the hemodynamics of retinal capillaries. During video acquisition, the objects of interest are in constant motion relative to the background tissue (object motion). The background tissue is in constant motion relative to the {AOSLO}, due to continuous eye motion during video recordings (eye motion). The location at which {AOSLO} acquires data is also in continuous motion, since the imaging source is swept in a raster scan across the retina (raster scanning). We show that it is important to take into consideration the combination of object motion, eye motion, and raster scanning for accurate quantification of object speeds. The proposed methods performed well on both experimental {AOSLO} videos as well as synthetic videos generated by a virtual {AOSLO}. These methods improve the accuracy of methods to investigate hemodynamics using {AOSLO} imaging.},
+	pages = {036002},
+	number = {3},
+	journaltitle = {Journal of Biomedical Optics},
+	shortjournal = {{JBO}},
+	author = {Tam, Johnny and Roorda, Austin},
+	urldate = {2020-04-25},
+	date = {2011-03},
+	note = {Publisher: International Society for Optics and Photonics}
+}
+
 @article{tam_characterization_2011,
 	title = {Characterization of single-file flow through human retinal parafoveal capillaries using an adaptive optics scanning laser ophthalmoscope},
 	volume = {2},
@@ -409,6 +487,45 @@ Publisher: Nature Publishing Group}
 	langid = {english},
 	pmid = {8675702},
 	note = {Publisher: American Society for Clinical Investigation}
+}
+
+@article{zhong_vivo_2008,
+	title = {In vivo measurement of erythrocyte velocity and retinal blood flow using adaptive optics scanning laser ophthalmoscopy},
+	volume = {16},
+	rights = {\&\#169; 2008 Optical Society of America},
+	issn = {1094-4087},
+	url = {https://www.osapublishing.org/oe/abstract.cfm?uri=oe-16-17-12746},
+	doi = {10.1364/OE.16.012746},
+	abstract = {In vivo measurement of retinal blood flow is obtained by measuring the blood velocity of erythrocytes and lumen diameters of the blood vessels using an adaptive optics scanning laser ophthalmoscope. Erythrocyte velocity is measured by tracking erythrocytes moving across a horizontal scanning line. This approach provides high temporal bandwidth measurements, allowing the fluctuation of blood flow during cardiac cycles to be measured. The technique is most applicable to medium-sized blood vessels.},
+	pages = {12746--12756},
+	number = {17},
+	journaltitle = {Optics Express},
+	shortjournal = {Opt. Express, {OE}},
+	author = {Zhong, Zhangyi and Petrig, Benno L. and Qi, Xiaofeng and Burns, Stephen A.},
+	urldate = {2020-04-25},
+	date = {2008-08-18},
+	note = {Publisher: Optical Society of America},
+	keywords = {Adaptive optics, Image processing, Infrared radiation, Laser Doppler velocimetry, Near infrared radiation, Wavefront aberrations}
+}
+
+
+@article{bergeles_unsupervised_2017,
+	title = {Unsupervised identification of cone photoreceptors in non-confocal adaptive optics scanning light ophthalmoscope images},
+	volume = {8},
+	rights = {\&\#169; 2017 Optical Society of America},
+	issn = {2156-7085},
+	url = {https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-6-3081},
+	doi = {10.1364/BOE.8.003081},
+	abstract = {Precise measurements of photoreceptor numerosity and spatial arrangement are promising biomarkers for the early detection of retinal pathologies and may be valuable in the evaluation of retinal therapies. Adaptive optics scanning light ophthalmoscopy ({AOSLO}) is a method of imaging that corrects for aberrations of the eye to acquire high-resolution images that reveal the photoreceptor mosaic. These images are typically graded manually by experienced observers, obviating the robust, large-scale use of the technology. This paper addresses unsupervised automated detection of cones in non-confocal, split-detection {AOSLO} images. Our algorithm leverages the appearance of split-detection images to create a cone model that is used for classification. Results show that it compares favorably to the state-of-the-art, both for images of healthy retinas and for images from patients affected by Stargardt disease. The algorithm presented also compares well to manual annotation while excelling in speed.},
+	pages = {3081--3094},
+	number = {6},
+	journaltitle = {Biomedical Optics Express},
+	shortjournal = {Biomed. Opt. Express, {BOE}},
+	author = {Bergeles, Christos and Dubis, Adam M. and Davidson, Benjamin and Kasilian, Melissa and Kalitzeos, Angelos and Carroll, Joseph and Dubra, Alfredo and Michaelides, Michel and Ourselin, Sebastien},
+	urldate = {2020-04-25},
+	date = {2017-06-01},
+	note = {Publisher: Optical Society of America},
+	keywords = {Image analysis, Image processing, Monochromatic aberrations, Photoreceptors, Retina scanning, Scanning laser ophthalmoscopy}
 }
 
 
@@ -513,4 +630,316 @@ date = {2005-04},
 pmid = {15817102},
 pmcid = {PMC1571489}
 }
+@online{eye_anatomy,
+title = {Free Image on Pixabay - Eye, Diagram, Eyeball, Body, Pupil},
+url = {https://pixabay.com/vectors/eye-diagram-eyeball-body-pupil-39998/},
+abstract = {Download this free picture about Eye Diagram Eyeball from Pixabay's vast library of public domain images and videos.},
+urldate = {2020-04-24},
+langid = {english},
+note = {Library Catalog: pixabay.com}
+}
 
+@video{noauthor_varying_nodate,
+	title = {Varying focus through retina {AOSLO}},
+	url = {https://www.youtube.com/watch?v=xyYidDFWMWQ},
+	abstract = {In this video we see an area of 1x1deg 5deg away from the fovea. We start at the photoreceptors and vary the focus moving towards the inner retina. As the focus changes we start seeing blood vessels. These are organised in plexuses that come in and out of view. On the split channel single blood cells are distinguishable. The nerve fibre layer appears as white vertical streaks on the confocal. The caption for inner and outer segments are reversed. The outer segments are seen on the high contrast video, the inner segments on the grayish},
+	urldate = {2020-04-24}
+}
+
+@article{japee_automated_2005,
+	title = {Automated Method for Tracking Individual Red Blood Cells Within Capillaries to Compute Velocity and Oxygen Saturation},
+	volume = {12},
+	rights = {2005 Blackwell},
+	issn = {1549-8719},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1080/10739680591003341},
+	doi = {10.1080/10739680591003341},
+	abstract = {Objective: The authors present a new method to track individual red blood cells ({RBCs}) as they move through capillaries. This method uses a recently developed Measurement and Analysis System for Capillary Oxygen Transport ({MASCOT}) and the concept of space–time images to track {RBCs} between consecutive frames of video recordings of the microcirculation. Methods: A space–time image displays in a single static image for a single capillary the location of all {RBCs} as a function of time. Analysis is performed on video tapes of {RBC} flow through capillaries to obtain velocity of individual cells as they traverse the capillary of interest. A space–time image is generated to track {RBCs} from one frame to the next and their velocities are computed. Based on the optical density values of each cell obtained from synchronized videotapes at two wavelengths, the oxygen saturation of a cell can be determined. In this manner, oxygen saturation can be tracked for the same cells as they move through the capillary. Results and Conclusions: These measurements, taken together, allow one to determine how much and how fast oxygen is being delivered to the surrounding tissue. This method provides, for the first time, a way to track individual {RBCs} flowing through capillary networks and study their {RBC} dynamics and oxygenation.},
+	pages = {507--515},
+	number = {6},
+	journaltitle = {Microcirculation},
+	author = {Japee, Shruti A. and Pittman, Roland N. and Ellis, Christopher G.},
+	urldate = {2020-04-24},
+	date = {2005},
+	langid = {english},
+	note = {\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1080/10739680591003341},
+	keywords = {microcirculation, oxygen saturation, red blood cell velocity, tracking}
+}
+
+
+@article{bedggood_direct_2012,
+	title = {Direct visualization and characterization of erythrocyte flow in human retinal capillaries},
+	volume = {3},
+	rights = {\&\#169; 2012 {OSA}},
+	issn = {2156-7085},
+	url = {https://www.osapublishing.org/boe/abstract.cfm?uri=boe-3-12-3264},
+	doi = {10.1364/BOE.3.003264},
+	abstract = {Imaging the retinal vasculature offers a surrogate view of systemic vascular health, allowing noninvasive and longitudinal assessment of vascular pathology. The earliest anomalies in vascular disease arise in the microvasculature, however current imaging methods lack the spatiotemporal resolution to track blood flow at the capillary level. We report here on novel imaging technology that allows direct, noninvasive optical imaging of erythrocyte flow in human retinal capillaries. This was made possible using adaptive optics for high spatial resolution (1.5 μm), {sCMOS} camera technology for high temporal resolution (460 fps), and tunable wavebands from a broadband laser for maximal erythrocyte contrast. Particle image velocimetry on our data sequences was used to quantify flow. We observed marked spatiotemporal variability in velocity, which ranged from 0.3 to 3.3 mm/s, and changed by up to a factor of 4 in a given capillary during the 130 ms imaging period. Both mean and standard deviation across the imaged capillary network varied markedly with time, yet their ratio remained a relatively constant parameter (0.50 ± 0.056). Our observations concur with previous work using less direct methods, validating this as an investigative tool for the study of microvascular disease in humans.},
+	pages = {3264--3277},
+	number = {12},
+	journaltitle = {Biomedical Optics Express},
+	shortjournal = {Biomed. Opt. Express, {BOE}},
+	author = {Bedggood, Phillip and Metha, Andrew},
+	urldate = {2020-04-25},
+	date = {2012-12-01},
+	note = {Publisher: Optical Society of America},
+	keywords = {Adaptive optics, Image quality, Imaging techniques, Laser velocimetry, Optical imaging, Speckle imaging}
+}
+
+@article{riva_blue_1980,
+	title = {Blue field entoptic phenomenon and blood velocity in the retinal capillaries},
+	volume = {70},
+	rights = {\&\#169; 1980 Optical Society of America},
+	url = {https://www.osapublishing.org/josa/abstract.cfm?uri=josa-70-10-1234},
+	doi = {10.1364/JOSA.70.001234},
+	abstract = {The blue field entoptic phenomenon consists of the perception of one’s own leukocytes (white blood cells) flowing in the macular capillaries of the retina. A method has been developed for determining the speed of the leukocytes. In this method, the motion of the leukocytes is simulated on a screen by means of a minicomputer system. The subject is instructed to match the motion of the simulated white blood cells with that of his own leukocytes. For this, he can adjust the number and the maximum and minimum speeds of the simulated particles. Measurements in five young subjects with normal fundi indicate that the speed of the leukocytes in the macular capillaries of the retina is pulsatile. Minimum and maximum speeds are approximately 0.5 and 1 mm/s.},
+	pages = {1234--1238},
+	number = {10},
+	journaltitle = {{JOSA}},
+	shortjournal = {J. Opt. Soc. Am., {JOSA}},
+	author = {Riva, C. E. and Petrig, B.},
+	urldate = {2020-04-25},
+	date = {1980-10-01},
+	note = {Publisher: Optical Society of America},
+	keywords = {Blood, Cathode ray tubes, Computer simulation, Ophthalmology, Pressure sensors, Retina}
+}
+
+@article{grunwald_effect_1993,
+	title = {Effect of aging on retinal macular microcirculation: a blue field simulation study.},
+	volume = {34},
+	issn = {1552-5783},
+	url = {https://iovs.arvojournals.org/article.aspx?articleid=2160915},
+	shorttitle = {Effect of aging on retinal macular microcirculation},
+	pages = {3609--3613},
+	number = {13},
+	journaltitle = {Investigative Ophthalmology \& Visual Science},
+	shortjournal = {Invest. Ophthalmol. Vis. Sci.},
+	author = {Grunwald, J. E. and Piltz, J. and Patel, N. and Bose, S. and Riva, C. E.},
+	urldate = {2020-04-25},
+	date = {1993-12-01},
+	langid = {english},
+	note = {Publisher: The Association for Research in Vision and Ophthalmology}
+}
+
+@article{yang_fluorescent_1997,
+	title = {Fluorescent Dots in Fluorescein Angiography and Fluorescein Leukocyte Angiography Using a Scanning Laser Ophthalmoscope in Humans},
+	volume = {104},
+	issn = {0161-6420},
+	url = {http://www.sciencedirect.com/science/article/pii/S0161642097300803},
+	doi = {10.1016/S0161-6420(97)30080-3},
+	abstract = {Purpose: The purpose of the study is to disclose the nature of fluorescent dots and segments traditionally observed with fluorescein angiography ({FA}) using a scanning laser ophthalmoscope ({SLO} 101; Rodenstock, München, Germany). The authors developed a new method, called fluorescein leukocyte angiography ({FLA}), to display directly the movement of leukocytes in human retinal vessels. Methods: Fluorescein angiography was performed on two normal volunteers using a scanning laser ophthalmoscope and fluorescent dots and segments were observed. Fluorescein leukocyte angiography, using an injection of fluorescent buffy coat layer from which the fluorescent plasma and nonfluorescent erythrocytes have been removed externally, was performed on seven normal volunteers. Injection fluid smears were examined through a fluorescent microscope. Peripheral blood smears taken during midphase of {FA} and {FLA} also were examined. In addition, 15 early-phase {FAs} of central serous chorioretinitis ({CSC}) were studied retrospectively. Results: In the {FAs} of normal volunteers, fluorescent dots were detected only in perimacular capillaries at early phase. Eight of the 15 {CSC} {FAs} examined showed both fluorescent dots and segments. In the {FLAs}, fluorescent dots were detected in whole retinal vessels for more than 30 minutes. Fluorescent segments were observed in {FA} but not in {FLA}. Injected fluid smears from one {FLA} showed fluorescent leukocytes and small platelets. However, in peripheral blood smears of the {FLA}, leukocytes and platelets were more visible and exhibited higher contrast than those of an {FA} due to background plasma fluorescence. The mean velocity of 21 flowing leukocytes in perifoveal capillaries was 1.37 ± 0.35 mm/second in 2 {FAs} and that of 89 flowing leukocytes was 1.41 ± 0.29 mm/second in 7 {FLAs}. Conclusions: The authors' observations suggest that fluorescent dots in scanning laser ophthalmoscope imaging are fluorescein-stained leukocytes, whereas fluorescent segments are the hyperfluorescent plasma that is located between rouleaux formations of erythrocytes. The velocity of the fluorescent dots could be measured in the perimacular capillaries by either {FA} or {FLA}; however, only {FLA} can display the flow of fluorescent leukocytes in large vessels.},
+	pages = {1670--1676},
+	number = {10},
+	journaltitle = {Ophthalmology},
+	shortjournal = {Ophthalmology},
+	author = {Yang, Yunsik and Kim, Sangduck and Kim, Jaeduck},
+	urldate = {2020-04-25},
+	date = {1997-10-01},
+	langid = {english}
+}
+
+@article{paques_evaluation_2000,
+	title = {Evaluation of fluorescein-labeled autologous leukocytes for examination of retinal circulation in humans},
+	volume = {21},
+	issn = {0271-3683},
+	url = {https://www.tandfonline.com/doi/abs/10.1076/0271-3683%28200007%292111-ZFT560},
+	doi = {10.1076/0271-3683(200007)2111-ZFT560},
+	abstract = {Purpose. Increased leukocyte-endothelium interaction have been suggested as a phenomenon contributing to capillary occlusion and/or rupture of the blood-retina barrier during human retinal vascular diseases. This study was performed to evaluate if fluorescein-labeled autologous leukocytes ({FLALs}) can be used for examination of leukocyte transit in the human retina. Methods. The preparation consisted of human dextran-separated leukocytes mixed with fluorescein. After reinjection in normal subjects and in one diabetic patient, a confocal scanning laser ophthalmoscope was used to visualize them in the retinal circulation. The changes between {FLALs} and control leukocytes in the expression of leukocytes adhesion molecules {CD}11b and {CD}62L were evaluated by flow cytometry. Results. The circulating {FLALs} were clearly visible in retinal vessels. The mean (± {SD}) capillaries velocity was 1.43 (± 1.3) mm/s in the macula and 1.82 (± 1.4) mm/s in the peripapillary area. No leukostasis was detected in the normal subjects, while it was detected in te diabetic patient. Flow cytometry revealed an increase in {CD}11b and a decrease in {CD}62L expression of leukocytes after labeling, suggesting that compared to normal leukocytes {FLALs} are more susceptible to interact with vascular endothelium. Conclusions. The use of {FLAL} is presently the only technique applicable in humans for study of leukocyte transit in the retina. Their preparation is technically simple and unexpensive. Precise measurement of the velocity of leukocytes in small vessels can be obtained. Despite evidence of a certain degree of leukocyte activation after the labeling procedure, no leukostasis was detected in vivo in normal subjects. Potential applications for this technique may include the detection of leukostasis in the human retina during severe forms of diabetes and retinal phlebitis.},
+	pages = {560--565},
+	number = {1},
+	journaltitle = {Current Eye Research},
+	author = {Paques, M. and Boval, B. and Richard, S. and Tadayoni, R. and Massin, P. and Mundler, O. and Gaudric, A. and Vicaut, E.},
+	urldate = {2020-04-25},
+	date = {2000-01-01},
+	note = {Publisher: Taylor \& Francis
+	\_eprint: https://www.tandfonline.com/doi/pdf/10.1076/0271-3683\%28200007\%292111-{ZFT}560}
+}
+
+@article{cunefare_automatic_2016,
+	title = {Automatic detection of cone photoreceptors in split detector adaptive optics scanning light ophthalmoscope images},
+	volume = {7},
+	rights = {\&\#169; 2016 Optical Society of America},
+	issn = {2156-7085},
+	url = {https://www.osapublishing.org/boe/abstract.cfm?uri=boe-7-5-2036},
+	doi = {10.1364/BOE.7.002036},
+	abstract = {Quantitative analysis of the cone photoreceptor mosaic in the living retina is potentially useful for early diagnosis and prognosis of many ocular diseases. Non-confocal split detector based adaptive optics scanning light ophthalmoscope ({AOSLO}) imaging reveals the cone photoreceptor inner segment mosaics often not visualized on confocal {AOSLO} imaging. Despite recent advances in automated cone segmentation algorithms for confocal {AOSLO} imagery, quantitative analysis of split detector {AOSLO} images is currently a time-consuming manual process. In this paper, we present the fully automatic adaptive filtering and local detection ({AFLD}) method for detecting cones in split detector {AOSLO} images. We validated our algorithm on 80 images from 10 subjects, showing an overall mean Dice\&\#x2019;s coefficient of 0.95 (standard deviation 0.03), when comparing our {AFLD} algorithm to an expert grader. This is comparable to the inter-observer Dice\&\#x2019;s coefficient of 0.94 (standard deviation 0.04). To the best of our knowledge, this is the first validated, fully-automated segmentation method which has been applied to split detector {AOSLO} images.},
+	pages = {2036--2050},
+	number = {5},
+	journaltitle = {Biomedical Optics Express},
+	shortjournal = {Biomed. Opt. Express, {BOE}},
+	author = {Cunefare, David and Cooper, Robert F. and Higgins, Brian and Katz, David F. and Dubra, Alfredo and Carroll, Joseph and Farsiu, Sina},
+	urldate = {2020-04-25},
+	date = {2016-05-01},
+	note = {Publisher: Optical Society of America},
+	keywords = {Clinical applications, Discrete Fourier transforms, Image quality, Imaging systems, Optical coherence tomography, Photoreceptors}
+}
+
+@article{cooper_automatic_2013,
+	title = {Automatic detection of modal spacing (Yellott's ring) in adaptive optics scanning light ophthalmoscope images},
+	volume = {33},
+	issn = {1475-1313},
+	doi = {10.1111/opo.12070},
+	abstract = {{PURPOSE}: An impediment for the clinical utilisation of ophthalmic adaptive optics imaging systems is the automated assessment of photoreceptor mosaic integrity. Here we propose a fully automated algorithm for estimating photoreceptor density based on the radius of Yellott's ring.
+	{METHODS}: The discrete Fourier transform ({DFT}) was used to obtain the power spectrum for a series of images of the human photoreceptor mosaic. Cell spacing is estimated by least-square fitting an annular pattern with a Gaussian cross section to the power spectrum; the radius of the resulting annulus provides an estimate of the modal spacing of the photoreceptors in the retinal image. The intrasession repeatability of the cone density estimates from the algorithm was evaluated, and the accuracy of the algorithm was validated against direct count estimates from a previous study. Accuracy in the presence of multiple cell types and disruptions in the mosaic was examined using images from four patients with retinal pathology and perifoveal images from two subjects with normal vision.
+	{RESULTS}: Intrasession repeatability of the power spectrum method was comparable to a fully automated direct counting algorithm, but worse than that for the manually adjusted direct count values. In images of the normal parafoveal cone mosaic, we find good agreement between the power-spectrum derived density and that from the direct counting algorithm. In diseased eyes, the power spectrum method is insensitive to photoreceptor loss, with cone density estimates overestimating the density determined with direct counting. The automated power spectrum method also produced unreliable estimates of rod and cone density in perifoveal images of the photoreceptor mosaic, though manual correction of the initial algorithm output results in density estimates in better agreement with direct count values.
+	{CONCLUSIONS}: We developed and validated an automated algorithm based on the power spectrum for extracting estimates of cone spacing, from which estimates of density can be derived. This approach may be used to estimate cone density in images where not every single cone is visible, though caution is needed, as this robustness becomes a weakness when dealing with images from patients with some retinal diseases. This study represents an important first step in carefully assessing the relative utility of metrics for analysing the photoreceptor mosaic, and similar analyses of other metrics/algorithms are needed.},
+	pages = {540--549},
+	number = {4},
+	journaltitle = {Ophthalmic \& Physiological Optics: The Journal of the British College of Ophthalmic Opticians (Optometrists)},
+	shortjournal = {Ophthalmic Physiol Opt},
+	author = {Cooper, Robert F. and Langlo, Christopher S. and Dubra, Alfredo and Carroll, Joseph},
+	date = {2013-07},
+	pmid = {23668233},
+	pmcid = {PMC3690144},
+	keywords = {Adult, Algorithms, Cell Count, Color Vision Defects, Female, Humans, Male, Middle Aged, Ophthalmoscopy, Pattern Recognition, Automated, Reproducibility of Results, Retinal Cone Photoreceptor Cells, Retinal Rod Photoreceptor Cells, Retinitis Pigmentosa, Young Adult}
+}
+
+@article{perez_effectiveness_2017,
+	title = {The Effectiveness of Data Augmentation in Image Classification using Deep Learning},
+	url = {http://arxiv.org/abs/1712.04621},
+	abstract = {In this paper, we explore and compare multiple solutions to the problem of data augmentation in image classification. Previous work has demonstrated the effectiveness of data augmentation through simple techniques, such as cropping, rotating, and flipping input images. We artificially constrain our access to data to a small subset of the {ImageNet} dataset, and compare each data augmentation technique in turn. One of the more successful data augmentations strategies is the traditional transformations mentioned above. We also experiment with {GANs} to generate images of different styles. Finally, we propose a method to allow a neural net to learn augmentations that best improve the classifier, which we call neural augmentation. We discuss the successes and shortcomings of this method on various datasets.},
+	journaltitle = {{arXiv}:1712.04621 [cs]},
+	author = {Perez, Luis and Wang, Jason},
+	urldate = {2020-03-30},
+	date = {2017-12-13},
+	eprinttype = {arxiv},
+	eprint = {1712.04621},
+}
+
+
+@article{gulshan_development_2016,
+	title = {Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs},
+	volume = {316},
+	issn = {0098-7484},
+	url = {https://jamanetwork.com/journals/jama/fullarticle/2588763},
+	doi = {10.1001/jama.2016.17216},
+	abstract = {{\textless}h3{\textgreater}Importance{\textless}/h3{\textgreater}{\textless}p{\textgreater}Deep learning is a family of computational methods that allow an algorithm to program itself by learning from a large set of examples that demonstrate the desired behavior, removing the need to specify rules explicitly. Application of these methods to medical imaging requires further assessment and validation.{\textless}/p{\textgreater}{\textless}h3{\textgreater}Objective{\textless}/h3{\textgreater}{\textless}p{\textgreater}To apply deep learning to create an algorithm for automated detection of diabetic retinopathy and diabetic macular edema in retinal fundus photographs.{\textless}/p{\textgreater}{\textless}h3{\textgreater}Design and Setting{\textless}/h3{\textgreater}{\textless}p{\textgreater}A specific type of neural network optimized for image classification called a deep convolutional neural network was trained using a retrospective development data set of 128 175 retinal images, which were graded 3 to 7 times for diabetic retinopathy, diabetic macular edema, and image gradability by a panel of 54 {US} licensed ophthalmologists and ophthalmology senior residents between May and December 2015. The resultant algorithm was validated in January and February 2016 using 2 separate data sets, both graded by at least 7 {US} board-certified ophthalmologists with high intragrader consistency.{\textless}/p{\textgreater}{\textless}h3{\textgreater}Exposure{\textless}/h3{\textgreater}{\textless}p{\textgreater}Deep learning–trained algorithm.{\textless}/p{\textgreater}{\textless}h3{\textgreater}Main Outcomes and Measures{\textless}/h3{\textgreater}{\textless}p{\textgreater}The sensitivity and specificity of the algorithm for detecting referable diabetic retinopathy ({RDR}), defined as moderate and worse diabetic retinopathy, referable diabetic macular edema, or both, were generated based on the reference standard of the majority decision of the ophthalmologist panel. The algorithm was evaluated at 2 operating points selected from the development set, one selected for high specificity and another for high sensitivity.{\textless}/p{\textgreater}{\textless}h3{\textgreater}Results{\textless}/h3{\textgreater}{\textless}p{\textgreater}The {EyePACS}-1 data set consisted of 9963 images from 4997 patients (mean age, 54.4 years; 62.2\% women; prevalence of {RDR}, 683/8878 fully gradable images [7.8\%]); the Messidor-2 data set had 1748 images from 874 patients (mean age, 57.6 years; 42.6\% women; prevalence of {RDR}, 254/1745 fully gradable images [14.6\%]). For detecting {RDR}, the algorithm had an area under the receiver operating curve of 0.991 (95\% {CI}, 0.988-0.993) for {EyePACS}-1 and 0.990 (95\% {CI}, 0.986-0.995) for Messidor-2. Using the first operating cut point with high specificity, for {EyePACS}-1, the sensitivity was 90.3\% (95\% {CI}, 87.5\%-92.7\%) and the specificity was 98.1\% (95\% {CI}, 97.8\%-98.5\%). For Messidor-2, the sensitivity was 87.0\% (95\% {CI}, 81.1\%-91.0\%) and the specificity was 98.5\% (95\% {CI}, 97.7\%-99.1\%). Using a second operating point with high sensitivity in the development set, for {EyePACS}-1 the sensitivity was 97.5\% and specificity was 93.4\% and for Messidor-2 the sensitivity was 96.1\% and specificity was 93.9\%.{\textless}/p{\textgreater}{\textless}h3{\textgreater}Conclusions and Relevance{\textless}/h3{\textgreater}{\textless}p{\textgreater}In this evaluation of retinal fundus photographs from adults with diabetes, an algorithm based on deep machine learning had high sensitivity and specificity for detecting referable diabetic retinopathy. Further research is necessary to determine the feasibility of applying this algorithm in the clinical setting and to determine whether use of the algorithm could lead to improved care and outcomes compared with current ophthalmologic assessment.{\textless}/p{\textgreater}},
+	pages = {2402--2410},
+	number = {22},
+	journaltitle = {{JAMA}},
+	shortjournal = {{JAMA}},
+	author = {Gulshan, Varun and Peng, Lily and Coram, Marc and Stumpe, Martin C. and Wu, Derek and Narayanaswamy, Arunachalam and Venugopalan, Subhashini and Widner, Kasumi and Madams, Tom and Cuadros, Jorge and Kim, Ramasamy and Raman, Rajiv and Nelson, Philip C. and Mega, Jessica L. and Webster, Dale R.},
+	urldate = {2020-04-26},
+	date = {2016-12-13},
+	langid = {english},
+	note = {Publisher: American Medical Association}
+}
+
+
+@inproceedings{jarrett_what_2009,
+	title = {What is the best multi-stage architecture for object recognition?},
+	doi = {10.1109/ICCV.2009.5459469},
+	abstract = {In many recent object recognition systems, feature extraction stages are generally composed of a filter bank, a non-linear transformation, and some sort of feature pooling layer. Most systems use only one stage of feature extraction in which the filters are hard-wired, or two stages where the filters in one or both stages are learned in supervised or unsupervised mode. This paper addresses three questions: 1. How does the non-linearities that follow the filter banks influence the recognition accuracy? 2. does learning the filter banks in an unsupervised or supervised manner improve the performance over random filters or hardwired filters? 3. Is there any advantage to using an architecture with two stages of feature extraction, rather than one? We show that using non-linearities that include rectification and local contrast normalization is the single most important ingredient for good accuracy on object recognition benchmarks. We show that two stages of feature extraction yield better accuracy than one. Most surprisingly, we show that a two-stage system with random filters can yield almost 63\% recognition rate on Caltech-101, provided that the proper non-linearities and pooling layers are used. Finally, we show that with supervised refinement, the system achieves state-of-the-art performance on {NORB} dataset (5.6\%) and unsupervised pre-training followed by supervised refinement produces good accuracy on Caltech-101 ({\textgreater} 65\%), and the lowest known error rate on the undistorted, unprocessed {MNIST} dataset (0.53\%).},
+	eventtitle = {2009 {IEEE} 12th International Conference on Computer Vision},
+	pages = {2146--2153},
+	booktitle = {2009 {IEEE} 12th International Conference on Computer Vision},
+	author = {Jarrett, Kevin and Kavukcuoglu, Koray and Ranzato, Marc'Aurelio and {LeCun}, Yann},
+	date = {2009-09},
+	note = {{ISSN}: 2380-7504},
+	keywords = {Brain modeling, Caltech-101, Error analysis, feature extraction, Feature extraction, feature pooling layer, feature rectification, filter bank, Filter bank, Gabor filters, Histograms, Image edge detection, Learning systems, local contrast normalization, multistage architecture, nonlinear transformation, {NORB} dataset, object recognition, Object recognition, Refining, supervised learning, unprocessed {MNIST} dataset, unsupervised learning}
+}
+
+@book{bishop_pattern_recognition_2006,
+	author = {Bishop, Christopher M.},
+	title = {Pattern Recognition and Machine Learning (Information Science and Statistics)},
+	year = {2006},
+	isbn = {0387310738},
+	publisher = {Springer-Verlag},
+	address = {Berlin, Heidelberg}
+}
+
+@COMMENT Blood vessel segmentation
+
+@article{liskowski_segmenting_2016,
+	title = {Segmenting Retinal Blood Vessels With Deep Neural Networks},
+	volume = {35},
+	issn = {1558-254X},
+	doi = {10.1109/TMI.2016.2546227},
+	abstract = {The condition of the vascular network of human eye is an important diagnostic factor in ophthalmology. Its segmentation in fundus imaging is a nontrivial task due to variable size of vessels, relatively low contrast, and potential presence of pathologies like microaneurysms and hemorrhages. Many algorithms, both unsupervised and supervised, have been proposed for this purpose in the past. We propose a supervised segmentation technique that uses a deep neural network trained on a large (up to 400 þinspace000) sample of examples preprocessed with global contrast normalization, zero-phase whitening, and augmented using geometric transformations and gamma corrections. Several variants of the method are considered, including structured prediction, where a network classifies multiple pixels simultaneously. When applied to standard benchmarks of fundus imaging, the {DRIVE}, {STARE}, and {CHASE} databases, the networks significantly outperform the previous algorithms on the area under {ROC} curve measure (up to {\textgreater} 0.99) and accuracy of classification (up to {\textgreater} 0.97). The method is also resistant to the phenomenon of central vessel reflex, sensitive in detection of fine vessels ( sensitivity {\textgreater} 0.87), and fares well on pathological cases.},
+	pages = {2369--2380},
+	number = {11},
+	journaltitle = {{IEEE} Transactions on Medical Imaging},
+	author = {Liskowski, Paweł and Krawiec, Krzysztof},
+	date = {2016-11},
+	note = {Conference Name: {IEEE} Transactions on Medical Imaging},
+	keywords = {Biomedical imaging, blood vessels, Blood vessels, central vessel reflex, {CHASE} databases, Classification, Convolution, Databases, Databases, Factual, deep learning, deep neural networks, diagnostic factor, {DRIVE} databases, eye, feature learning, fundus, fundus imaging, gamma corrections, geometric transformations, global contrast normalization, hemorrhages, human eye, Humans, image classification, Image Interpretation, Computer-Assisted, image segmentation, Image segmentation, medical image processing, microaneurysms, neural nets, neural networks, Neural networks, Neural Networks (Computer), nontrivial task, ophthalmology, Pathology, retina, retinal blood vessel segmentation, Retinal Vessels, retinopathy, {ROC} curve, sensitivity analysis, {STARE} databases, structured prediction, Supervised Machine Learning, supervised segmentation, unsupervised learning, vascular network, vessel segmentation, zero-phase whitening}
+}
+
+@article{fraz_blood_2012,
+	title = {Blood vessel segmentation methodologies in retinal images – A survey},
+	volume = {108},
+	issn = {0169-2607},
+	url = {http://www.sciencedirect.com/science/article/pii/S0169260712000843},
+	doi = {10.1016/j.cmpb.2012.03.009},
+	abstract = {Retinal vessel segmentation algorithms are a fundamental component of automatic retinal disease screening systems. This work examines the blood vessel segmentation methodologies in two dimensional retinal images acquired from a fundus camera and a survey of techniques is presented. The aim of this paper is to review, analyze and categorize the retinal vessel extraction algorithms, techniques and methodologies, giving a brief description, highlighting the key points and the performance measures. We intend to give the reader a framework for the existing research; to introduce the range of retinal vessel segmentation algorithms; to discuss the current trends and future directions and summarize the open problems. The performance of algorithms is compared and analyzed on two publicly available databases ({DRIVE} and {STARE}) of retinal images using a number of measures which include accuracy, true positive rate, false positive rate, sensitivity, specificity and area under receiver operating characteristic ({ROC}) curve.},
+	pages = {407--433},
+	number = {1},
+	journaltitle = {Computer Methods and Programs in Biomedicine},
+	shortjournal = {Computer Methods and Programs in Biomedicine},
+	author = {Fraz, M. M. and Remagnino, P. and Hoppe, A. and Uyyanonvara, B. and Rudnicka, A. R. and Owen, C. G. and Barman, S. A.},
+	urldate = {2020-04-26},
+	date = {2012-10-01},
+	langid = {english},
+	keywords = {Image segmentation, Blood vessel segmentation, Medical imaging, Retinal images, Retinopathy, Survey}
+}
+
+@inproceedings{fu_retinal_2016,
+	title = {Retinal vessel segmentation via deep learning network and fully-connected conditional random fields},
+	doi = {10.1109/ISBI.2016.7493362},
+	abstract = {Vessel segmentation is a key step for various medical applications. This paper introduces the deep learning architecture to improve the performance of retinal vessel segmentation. Deep learning architecture has been demonstrated having the powerful ability in automatically learning the rich hierarchical representations. In this paper, we formulate the vessel segmentation to a boundary detection problem, and utilize the fully convolutional neural networks ({CNNs}) to generate a vessel probability map. Our vessel probability map distinguishes the vessels and background in the inadequate contrast region, and has robustness to the pathological regions in the fundus image. Moreover, a fully-connected Conditional Random Fields ({CRFs}) is also employed to combine the discriminative vessel probability map and long-range interactions between pixels. Finally, a binary vessel segmentation result is obtained by our method. We show that our proposed method achieve a state-of-the-art vessel segmentation performance on the {DRIVE} and {STARE} datasets.},
+	eventtitle = {2016 {IEEE} 13th International Symposium on Biomedical Imaging ({ISBI})},
+	pages = {698--701},
+	booktitle = {2016 {IEEE} 13th International Symposium on Biomedical Imaging ({ISBI})},
+	author = {Fu, Huazhu and Xu, Yanwu and Wong, Damon Wing Kee and Liu, Jiang},
+	date = {2016-04},
+	note = {{ISSN}: 1945-8452},
+	keywords = {blood vessels, eye, image segmentation, Image segmentation, medical image processing, neural nets, Neural networks, Pathology, binary vessel segmentation, boundary detection, Computer architecture, Conditional Random Fields, convolutional neural networks, Convolutional Neural Networks, deep learning network, {DRIVE} dataset, fully-connected conditional random fields, fundus image, Machine learning, pathological region, retinal vessel segmentation, Retinal vessels, {STARE} dataset, vessel probability map, Vessel segmentation}
+}
+
+@inproceedings{fu_deepvessel_2016,
+	location = {Cham},
+	title = {{DeepVessel}: Retinal Vessel Segmentation via Deep Learning and Conditional Random Field},
+	isbn = {978-3-319-46723-8},
+	doi = {10.1007/978-3-319-46723-8_16},
+	series = {Lecture Notes in Computer Science},
+	shorttitle = {{DeepVessel}},
+	abstract = {Retinal vessel segmentation is a fundamental step for various ocular imaging applications. In this paper, we formulate the retinal vessel segmentation problem as a boundary detection task and solve it using a novel deep learning architecture. Our method is based on two key ideas: (1) applying a multi-scale and multi-level Convolutional Neural Network ({CNN}) with a side-output layer to learn a rich hierarchical representation, and (2) utilizing a Conditional Random Field ({CRF}) to model the long-range interactions between pixels. We combine the {CNN} and {CRF} layers into an integrated deep network called {DeepVessel}. Our experiments show that the {DeepVessel} system achieves state-of-the-art retinal vessel segmentation performance on the {DRIVE}, {STARE}, and {CHASE}\_DB1 datasets with an efficient running time.},
+	pages = {132--139},
+	booktitle = {Medical Image Computing and Computer-Assisted Intervention – {MICCAI} 2016},
+	publisher = {Springer International Publishing},
+	author = {Fu, Huazhu and Xu, Yanwu and Lin, Stephen and Kee Wong, Damon Wing and Liu, Jiang},
+	editor = {Ourselin, Sebastien and Joskowicz, Leo and Sabuncu, Mert R. and Unal, Gozde and Wells, William},
+	date = {2016},
+	langid = {english},
+	keywords = {Conditional Random Field, Convolutional Neural Network, Deep Neural Network, Recurrent Neural Network, Retinal Vessel}
+}
+@article{li_cross-modality_2016,
+	title = {A Cross-Modality Learning Approach for Vessel Segmentation in Retinal Images},
+	volume = {35},
+	issn = {1558-254X},
+	doi = {10.1109/TMI.2015.2457891},
+	abstract = {This paper presents a new supervised method for vessel segmentation in retinal images. This method remolds the task of segmentation as a problem of cross-modality data transformation from retinal image to vessel map. A wide and deep neural network with strong induction ability is proposed to model the transformation, and an efficient training strategy is presented. Instead of a single label of the center pixel, the network can output the label map of all pixels for a given image patch. Our approach outperforms reported state-of-the-art methods in terms of sensitivity, specificity and accuracy. The result of cross-training evaluation indicates its robustness to the training set. The approach needs no artificially designed feature and no preprocessing step, reducing the impact of subjective factors. The proposed method has the potential for application in image diagnosis of ophthalmologic diseases, and it may provide a new, general, high-performance computing framework for image segmentation.},
+	pages = {109--118},
+	number = {1},
+	journaltitle = {{IEEE} Transactions on Medical Imaging},
+	author = {Li, Qiaoliang and Feng, Bowei and Xie, {LinPei} and Liang, Ping and Zhang, Huisheng and Wang, Tianfu},
+	date = {2016-01},
+	note = {Conference Name: {IEEE} Transactions on Medical Imaging},
+	keywords = {Accuracy, Algorithms, center pixel, computing framework, Cross-modality learning, cross-modality learning approach, cross-training evaluation, Databases, Factual, deep learning, Deformable models, eye, Feature extraction, Humans, image diagnosis, Image Processing, Computer-Assisted, image segmentation, Image segmentation, induction ability, Machine Learning, medical image processing, neural nets, neural network, Neural networks, ophthalmologic diseases, Retina, retinal image, retinal images, Retinal Vessels, Training, vessel map, vessel segmentation}
+}
+
+@article{jiang_retinal_2018,
+	title = {Retinal blood vessel segmentation using fully convolutional network with transfer learning},
+	volume = {68},
+	issn = {0895-6111},
+	url = {http://www.sciencedirect.com/science/article/pii/S0895611118302313},
+	doi = {10.1016/j.compmedimag.2018.04.005},
+	abstract = {Since the retinal blood vessel has been acknowledged as an indispensable element in both ophthalmological and cardiovascular disease diagnosis, the accurate segmentation of the retinal vessel tree has become the prerequisite step for automated or computer-aided diagnosis systems. In this paper, a supervised method is presented based on a pre-trained fully convolutional network through transfer learning. This proposed method has simplified the typical retinal vessel segmentation problem from full-size image segmentation to regional vessel element recognition and result merging. Meanwhile, additional unsupervised image post-processing techniques are applied to this proposed method so as to refine the final result. Extensive experiments have been conducted on {DRIVE}, {STARE}, {CHASE}\_DB1 and {HRF} databases, and the accuracy of the cross-database test on these four databases is state-of-the-art, which also presents the high robustness of the proposed approach. This successful result has not only contributed to the area of automated retinal blood vessel segmentation but also supports the effectiveness of transfer learning when applying deep learning technique to medical imaging.},
+	pages = {1--15},
+	journaltitle = {Computerized Medical Imaging and Graphics},
+	shortjournal = {Computerized Medical Imaging and Graphics},
+	author = {Jiang, Zhexin and Zhang, Hao and Wang, Yi and Ko, Seok-Bum},
+	urldate = {2020-04-27},
+	date = {2018-09-01},
+	langid = {english},
+	keywords = {Deep learning, Fully convolutional network, Pre-trained model, Retinal blood vessel segmentation, Transfer learning}
+}
