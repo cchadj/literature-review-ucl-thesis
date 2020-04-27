@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.4.23)  27 APR 2020 06:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.4.23)  27 APR 2020 11:44
 entering extended mode
 **./template_Article.tex
 (template_Article.tex
@@ -908,20 +908,20 @@ File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 (template_Article.aux)
 \openout1 = `template_Article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -964,11 +964,11 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'template_Article.bbl' found.
 
 (template_Article.bbl)
-Package biblatex Info: Reference section=0 on input line 25.
-Package biblatex Info: Reference segment=0 on input line 25.
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
  ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -981,234 +981,232 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count341
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (template_Article.out) (template_Article.out)
 \@outlinefile=\write5
 \openout5 = `template_Article.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 70.
- [1
+) [1
 
 {C:/Users/chadj/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_dewarped_first.jpg, id=7
-3, 493.845pt x 578.16pt>
+Overfull \hbox (2.71944pt too wide) in paragraph at lines 65--65
+[][]\OT1/cmr/bx/n/12 Confocal Imag-ing and Adap-tive Op-tics Scan-ning Laser Op
+h-
+ []
+
+<./images/confocal_imaging_eye.png, id=76, 190.91325pt x 186.39638pt>
+File: ./images/confocal_imaging_eye.png Graphic file (type png)
+<use ./images/confocal_imaging_eye.png>
+Package pdftex.def Info: ./images/confocal_imaging_eye.png  used on input line 
+82.
+(pdftex.def)             Requested size: 109.88269pt x 107.28514pt.
+<./images/Adaptive_Imaging.png, id=78, 331.83975pt x 339.97012pt>
+File: ./images/Adaptive_Imaging.png Graphic file (type png)
+<use ./images/Adaptive_Imaging.png>
+Package pdftex.def Info: ./images/Adaptive_Imaging.png  used on input line 89.
+(pdftex.def)             Requested size: 126.78891pt x 129.89548pt.
+<./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_dewarped_first.jpg, id=8
+7, 493.845pt x 578.16pt>
 File: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_dewarped_first.jpg 
 Graphic file (type jpg)
 <use ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_dewarped_first.jpg>
 Package pdftex.def Info: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_
-dewarped_first.jpg  used on input line 91.
+dewarped_first.jpg  used on input line 104.
 (pdftex.def)             Requested size: 148.15463pt x 173.44933pt.
-<./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_marked_first.jpg, id=74,
+<./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_marked_first.jpg, id=88,
  493.845pt x 578.16pt>
 File: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_marked_first.jpg Gr
 aphic file (type jpg)
 <use ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_marked_first.jpg>
 Package pdftex.def Info: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_
-marked_first.jpg  used on input line 99.
+marked_first.jpg  used on input line 112.
 (pdftex.def)             Requested size: 148.15463pt x 173.44933pt.
-<./images/eye_anatomy.png, id=75, 446.1468pt x 307.3884pt>
+<./images/eye_anatomy.png, id=89, 446.1468pt x 307.3884pt>
 File: ./images/eye_anatomy.png Graphic file (type png)
 <use ./images/eye_anatomy.png>
-Package pdftex.def Info: ./images/eye_anatomy.png  used on input line 107.
+Package pdftex.def Info: ./images/eye_anatomy.png  used on input line 120.
 (pdftex.def)             Requested size: 345.0pt x 237.7076pt.
-<./images/aliasing-effect.jpg, id=95, 126.77362pt x 63.8385pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cite' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 133.
+
+<./images/aliasing-effect.jpg, id=109, 126.77362pt x 63.8385pt>
 File: ./images/aliasing-effect.jpg Graphic file (type jpg)
 <use ./images/aliasing-effect.jpg>
-Package pdftex.def Info: ./images/aliasing-effect.jpg  used on input line 127.
+Package pdftex.def Info: ./images/aliasing-effect.jpg  used on input line 141.
 (pdftex.def)             Requested size: 345.0pt x 173.76112pt.
-<./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked.jpg, id=101, 493.
+[2]
+<./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked.jpg, id=124, 493.
 845pt x 578.16pt>
 File: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked.jpg Graphic 
 file (type jpg)
 <use ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked.jpg>
 Package pdftex.def Info: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_
-marked.jpg  used on input line 150.
+marked.jpg  used on input line 161.
 (pdftex.def)             Requested size: 370.38283pt x 433.61893pt.
 <./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked_corresponding_ima
-ge.jpg, id=102, 493.845pt x 578.16pt>
+ge.jpg, id=125, 493.845pt x 578.16pt>
 File: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked_correspondin
 g_image.jpg Graphic file (type jpg)
 <use ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_marked_corresponding
 _image.jpg>
 Package pdftex.def Info: ./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850nm_
-marked_corresponding_image.jpg  used on input line 158.
+marked_corresponding_image.jpg  used on input line 169.
 (pdftex.def)             Requested size: 370.38283pt x 433.61893pt.
-<./images/de_castro_channel_1.png, id=103, 115.02975pt x 115.02975pt>
+<./images/de_castro_channel_1.png, id=126, 115.02975pt x 115.02975pt>
 File: ./images/de_castro_channel_1.png Graphic file (type png)
 <use ./images/de_castro_channel_1.png>
 Package pdftex.def Info: ./images/de_castro_channel_1.png  used on input line 1
-66.
+77.
 (pdftex.def)             Requested size: 86.2721pt x 86.2721pt.
-<./images/de_castro_channel_2.png, id=106, 119.2455pt x 116.23425pt>
+<./images/de_castro_channel_2.png, id=129, 119.2455pt x 116.23425pt>
 File: ./images/de_castro_channel_2.png Graphic file (type png)
 <use ./images/de_castro_channel_2.png>
 Package pdftex.def Info: ./images/de_castro_channel_2.png  used on input line 1
-74.
+85.
 (pdftex.def)             Requested size: 89.43388pt x 87.17546pt.
-<./images/castro-average-cell.png, id=120, 180.675pt x 134.30174pt>
+<./images/castro-average-cell.png, id=143, 180.675pt x 134.30174pt>
 File: ./images/castro-average-cell.png Graphic file (type png)
 <use ./images/castro-average-cell.png>
-Package pdftex.def Info: ./images/castro-average-cell.png  used on input line 1
-99.
+Package pdftex.def Info: ./images/castro-average-cell.png  used on input line 2
+10.
 (pdftex.def)             Requested size: 275.0pt x 204.43585pt.
- [2] [3 <./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_dewarped_first.j
-pg> <./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_marked_first.jpg> <.
-/images/eye_anatomy.png>]
-<./images/bergelles-photoreceptord.jpg, id=157, 677.4108pt x 228.855pt>
+ [3 <./images/confocal_imaging_eye.png> <./images/Adaptive_Imaging.png>]
+[4 <./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_dewarped_first.jpg> <
+./images/Subject3_Session216_OD_(0,0)_1x1_980_OA790nm_marked_first.jpg> <./imag
+es/eye_anatomy.png>]
+<./images/bergelles-photoreceptord.jpg, id=191, 677.4108pt x 228.855pt>
 File: ./images/bergelles-photoreceptord.jpg Graphic file (type jpg)
 <use ./images/bergelles-photoreceptord.jpg>
 Package pdftex.def Info: ./images/bergelles-photoreceptord.jpg  used on input l
-ine 226.
+ine 237.
 (pdftex.def)             Requested size: 345.0pt x 116.55386pt.
-
-[4 <./images/aliasing-effect.jpg>] [5 <./images/Subject3_Session216_OD_(0,0)_1x
-1_980_OA850nm_marked.jpg> <./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850n
-m_marked_corresponding_image.jpg> <./images/de_castro_channel_1.png> <./images/
-de_castro_channel_2.png>] [6 <./images/castro-average-cell.png>]
-<./images/cunefare_generating_data.png, id=207, 402.90524pt x 156.88612pt>
+ [5 <./images/aliasing-effect.jpg>] [6 <./images/Subject3_Session216_OD_(0,0)_1
+x1_980_OA850nm_marked.jpg> <./images/Subject3_Session216_OD_(0,0)_1x1_980_OA850
+nm_marked_corresponding_image.jpg> <./images/de_castro_channel_1.png> <./images
+/de_castro_channel_2.png>] [7 <./images/castro-average-cell.png>]
+<./images/cunefare_generating_data.png, id=239, 402.90524pt x 156.88612pt>
 File: ./images/cunefare_generating_data.png Graphic file (type png)
 <use ./images/cunefare_generating_data.png>
 Package pdftex.def Info: ./images/cunefare_generating_data.png  used on input l
-ine 276.
+ine 285.
 (pdftex.def)             Requested size: 345.0pt x 134.34727pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <./images/bergelles-photoreceptord.jpg>] [8 <./images/cunefare_generating_da
-ta.png>] [9]
-<./images/spatial_offset.png, id=264, 640.3122pt x 224.7597pt>
+ [8 <./images/bergelles-photoreceptord.jpg> <./images/cunefare_generating_data.
+png>]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 319.
+ [9] [10]
+<./images/spatial_offset.png, id=290, 640.3122pt x 224.7597pt>
 File: ./images/spatial_offset.png Graphic file (type png)
 <use ./images/spatial_offset.png>
-Package pdftex.def Info: ./images/spatial_offset.png  used on input line 385.
+Package pdftex.def Info: ./images/spatial_offset.png  used on input line 388.
 (pdftex.def)             Requested size: 345.0pt x 121.10434pt.
-
-
-LaTeX Warning: Reference `fig:own-data-blood-cells' on page 10 undefined on inp
-ut line 394.
-
-<./images/extracting_data_own.png, id=267, 732.63713pt x 363.45787pt>
+<./images/extracting_data_own.png, id=294, 732.63713pt x 363.45787pt>
 File: ./images/extracting_data_own.png Graphic file (type png)
 <use ./images/extracting_data_own.png>
 Package pdftex.def Info: ./images/extracting_data_own.png  used on input line 4
-01.
+04.
 (pdftex.def)             Requested size: 345.0pt x 171.15242pt.
-[10 <./images/spatial_offset.png>]
-<./images/segment-example.png, id=282, 410.9754pt x 481.3182pt>
+ [11 <./images/spatial_offset.png>]
+<./images/segment-example.png, id=310, 410.9754pt x 481.3182pt>
 File: ./images/segment-example.png Graphic file (type png)
 <use ./images/segment-example.png>
-Package pdftex.def Info: ./images/segment-example.png  used on input line 433.
-(pdftex.def)             Requested size: 345.0pt x 404.05482pt.
+Package pdftex.def Info: ./images/segment-example.png  used on input line 438.
+(pdftex.def)             Requested size: 205.4872pt x 240.65851pt.
+ [12 <./images/extracting_data_own.png>] [13 <./images/segment-example.png>] [1
+4
 
-Runaway argument?
-{fig:labep \end {figure} 
-! Paragraph ended before \caption@@xlabel was complete.
-<to be read again> 
-                   \par 
-l.437 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+]
+Overfull \hbox (163.82658pt too wide) in paragraph at lines 478--478
+\OT1/cmr/m/n/10 Species''. In: \OT1/cmr/m/it/10 Ecol-ogy \OT1/cmr/m/n/10 26.3 (
+1945). []eprint: https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/19
+32409,
+ []
 
-
-Underfull \hbox (badness 4205) in paragraph at lines 442--442
-[]\OT1/cmr/m/n/10 Shruti A. Japee, Roland N. Pittman, and Christo-pher G. El-
+[15]
+Overfull \hbox (50.97432pt too wide) in paragraph at lines 478--478
+\OT1/cmr/m/n/10 (2005). []eprint: https://onlinelibrary.wiley.com/doi/pdf/10.10
+80/10739680591003341,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
-\OT1/cmr/m/n/10 lis. ``Au-to-mated Method for Track-ing In-di-vid-ual Red Blood
+Overfull \hbox (21.80263pt too wide) in paragraph at lines 478--478
+[]$\OT1/cmtt/m/n/10 https : / / onlinelibrary . wiley . com / doi / abs / 10 . 
+1080 / 10739680591003341$[]
+ []
 
+[16]
+Overfull \hbox (1.85403pt too wide) in paragraph at lines 478--478
+\OT1/cmtt/m/n/10 2005 . 06 . 033$[]\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/c
+mr/m/n/10 : []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / science 
+/ article /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
-\OT1/cmr/m/n/10 Cells Within Cap-il-lar-ies to Com-pute Ve-loc-ity and Oxy-
+Overfull \hbox (181.78906pt too wide) in paragraph at lines 478--478
+\OT1/cmr/m/it/10 search \OT1/cmr/m/n/10 21.1 (Jan. 1, 2000). Pub-lisher: Tay-lo
+r & Fran-cis []eprint: https://www.tandfonline.com/doi/pdf/10.1076/0271-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
-\OT1/cmr/m/n/10 gen Sat-u-ra-tion''. In: \OT1/cmr/m/it/10 Mi-cro-cir-cu-la-tion
- \OT1/cmr/m/n/10 12.6 (2005). []eprint:
+Overfull \hbox (8.10399pt too wide) in paragraph at lines 478--478
+\OT1/cmtt/m/n/10 1076 / 0271 -[] 3683(200007 ) 2111 -[] ZFT560$[]\OT1/cmr/m/n/1
+0 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : []$\OT1/cmtt/m/n/10 https : / / www .
+ tandfonline .
+ []
+
+[17]
+Overfull \hbox (3.76782pt too wide) in paragraph at lines 478--478
+\OT1/cmr/m/n/10 tional Net-works for Biomed-i-cal Im-age Seg-men-ta-tion''. In:
+ \OT1/cmr/m/it/10 arXiv:1505.04597
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
-\OT1/cmr/m/n/10 https://onlinelibrary.wiley.com/doi/pdf/10.1080/107396805910033
-41,
+Overfull \hbox (8.49838pt too wide) in paragraph at lines 478--478
+\OT1/cmtt/m/n/10 in -[] adaptive -[] optics / 10 . 1117 / 1 . 3548880 . short$[
+] \OT1/cmr/m/n/10 (vis-ited on 04/25/2020). 
  []
 
-
-Underfull \hbox (badness 6876) in paragraph at lines 442--442
-[]\OT1/cmr/m/n/10 M. Paques et al. ``Eval-u-a-tion of fluorescein-labeled au-to
-l-o-gous
- []
-
-
-Underfull \hbox (badness 2277) in paragraph at lines 442--442
-\OT1/cmr/m/n/10 leuko-cytes for ex-am-i-na-tion of reti-nal cir-cu-la-tion in h
-u-mans''. In:
- []
-
-
-Underfull \hbox (badness 8000) in paragraph at lines 442--442
-\OT1/cmr/m/it/10 Cur-rent Eye Re-search \OT1/cmr/m/n/10 21.1 (Jan. 1, 2000). Pu
-b-lisher: Tay-lor
- []
-
-
-Underfull \hbox (badness 5302) in paragraph at lines 442--442
-[]\OT1/cmr/m/n/10 Olaf Ron-neberger, Philipp Fis-cher, and Thomas Brox. ``U-Net
-:
- []
-
-
-Underfull \hbox (badness 3428) in paragraph at lines 442--442
-\OT1/cmr/m/n/10 Con-vo-lu-tional Net-works for Biomed-i-cal Im-age Seg-men-ta-t
-ion''. In:
+[18]
+Overfull \hbox (16.55267pt too wide) in paragraph at lines 478--478
+\OT1/cmtt/m/n/10 opt . indiana . edu / people / faculty / burns / CenterForOpht
+halmicImaging /
  []
 
 
 Package biblatex Warning: No driver for entry type 'video'.
-(biblatex)                Using fallback driver on input line 442.
+(biblatex)                Using fallback driver on input line 478.
 
-
-! LaTeX Error: \begin{figure} on input line 431 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.442 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
-(template_Article.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 442.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 442.
+[19]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 478.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 478.
+ (template_Article.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 478.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 478.
 Package rerunfilecheck Info: File `template_Article.out' has not changed.
-(rerunfilecheck)             Checksum: FB6611E00B4BC3D1F3E78674281E635E;215.
+(rerunfilecheck)             Checksum: 051850E7AB50E5800E10B6E2727108B8;331.
 
 
 LaTeX Warning: There were undefined references.
@@ -1219,53 +1217,29 @@ Package biblatex Warning: Please rerun LaTeX.
 Package logreq Info: Writing requests to 'template_Article.run.xml'.
 \openout1 = `template_Article.run.xml'.
 
-! You can't use `\end' in internal vertical mode.
-\enddocument ...cumenthook \deadcycles \z@ \@@end 
-                                                  
-l.442 \end{document}
-                    
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{figure} on input line 431 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.442 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.442 \end{document}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-)
-! Emergency stop.
-<*> ./template_Article.tex
-                          
-*** (job aborted, no legal \end found)
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 26663 strings out of 492473
- 514168 string characters out of 3130702
- 980539 words of memory out of 3000000
- 30488 multiletter control sequences out of 15000+200000
- 12925 words of font info for 50 fonts, out of 3000000 for 9000
+ 26684 strings out of 492473
+ 514883 string characters out of 3130702
+ 949576 words of memory out of 3000000
+ 30490 multiletter control sequences out of 15000+200000
+ 12617 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,9n,90p,1921b,1712s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 73i,9n,90p,877b,1712s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on template_Article.pdf (19 pages, 6031218 bytes).
+PDF statistics:
+ 551 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+

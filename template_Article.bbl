@@ -291,6 +291,90 @@
     \field{year}{2006}
   \endentry
 
+  \entry{burns_adaptive_2019}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BSA}{%
+         family={Burns},
+         familyi={B\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EAE}{%
+         family={Elsner},
+         familyi={E\bibinitperiod},
+         given={Ann\bibnamedelima E.},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SKA}{%
+         family={Sapoznik},
+         familyi={S\bibinitperiod},
+         given={Kaitlyn\bibnamedelima A.},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WRL}{%
+         family={Warner},
+         familyi={W\bibinitperiod},
+         given={Raymond\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GTJ}{%
+         family={Gast},
+         familyi={G\bibinitperiod},
+         given={Thomas\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Photoreceptors, Blood flow, Imaging, Ophthalmoscopy, Retina, Retinal
+  degenerations, Vascular disease}
+    \strng{namehash}{BSA+1}
+    \strng{fullhash}{BSAEAESKAWRLGTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Adaptive Optics ({AO}) retinal imaging has provided revolutionary tools to
+  scientists and clinicians for studying retinal structure and function in the
+  living eye. From animal models to clinical patients, {AO} imaging is changing
+  the way scientists are approaching the study of the retina. By providing
+  cellular and subcellular details without the need for histology, it is now
+  possible to perform large scale studies as well as to understand how an
+  individual retina changes over time. Because {AO} retinal imaging is
+  non-invasive and when performed with near-{IR} wavelengths both safe and
+  easily tolerated by patients, it holds promise for being incorporated into
+  clinical trials providing cell specific approaches to monitoring diseases and
+  therapeutic interventions. {AO} is being used to enhance the ability of
+  {OCT}, fluorescence imaging, and reflectance imaging. By incorporating
+  imaging that is sensitive to differences in the scattering properties of
+  retinal tissue, it is especially sensitive to disease, which can drastically
+  impact retinal tissue properties. This review examines human {AO} retinal
+  imaging with a concentration on the use of the Adaptive Optics Scanning Laser
+  Ophthalmoscope ({AOSLO}). It first covers the background and the overall
+  approaches to human {AO} retinal imaging, and the technology involved, and
+  then concentrates on using {AO} retinal imaging to study the structure and
+  function of the retina.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.preteyeres.2018.08.002
+    \endverb
+    \field{issn}{1350-9462}
+    \field{pages}{1\bibrangedash 30}
+    \field{shortjournal}{Progress in Retinal and Eye Research}
+    \field{title}{Adaptive optics imaging of the human retina}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S1350946218300405
+    \endverb
+    \field{volume}{68}
+    \field{langid}{english}
+    \field{journaltitle}{Progress in Retinal and Eye Research}
+    \field{day}{01}
+    \field{month}{01}
+    \field{year}{2019}
+    \field{urlday}{30}
+    \field{urlmonth}{03}
+    \field{urlyear}{2020}
+  \endentry
+
   \entry{castro_rapid_2016}{article}{}
     \name{author}{5}{}{%
       {{hash=CAd}{%
@@ -362,6 +446,73 @@
     \field{day}{15}
     \field{month}{04}
     \field{year}{2016}
+    \field{urlday}{30}
+    \field{urlmonth}{03}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{chui_use_2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CTYP}{%
+         family={Chui},
+         familyi={C\bibinitperiod},
+         given={Toco Y.\bibnamedelima P.},
+         giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=VDA}{%
+         family={{VanNasdale}},
+         familyi={V\bibinitperiod},
+         given={Dean\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BSA}{%
+         family={Burns},
+         familyi={B\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Image processing, Visual acuity, Imaging systems, Imaging techniques,
+  Optic nerve, Wave front sensing}
+    \strng{namehash}{CTYPVDABSA1}
+    \strng{fullhash}{CTYPVDABSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Retinal vascular diseases are a leading cause of blindness and visual
+  disability. The advent of adaptive optics retinal imaging has enabled us to
+  image the retinal vascular at cellular resolutions, but imaging of the
+  vasculature can be difficult due to the complex nature of the images,
+  including features of many other retinal structures, such as the nerve fiber
+  layer, glial and other cells. In this paper we show that varying the size and
+  centration of the confocal aperture of an adaptive optics scanning laser
+  ophthalmoscope ({AOSLO}) can increase sensitivity to multiply scattered
+  light, especially light forward scattered from the vasculature and
+  erythrocytes. The resulting technique was tested by imaging regions with
+  different retinal tissue reflectivities as well as within the optic nerve
+  head.%
+    }
+    \verb{doi}
+    \verb 10.1364/BOE.3.002537
+    \endverb
+    \field{issn}{2156-7085}
+    \field{note}{Publisher: Optical Society of America}
+    \field{number}{10}
+    \field{pages}{2537\bibrangedash 2549}
+    \field{shortjournal}{Biomed. Opt. Express, {BOE}}
+    \field{title}{The use of forward scatter to improve retinal vascular
+  imaging with an adaptive optics scanning laser ophthalmoscope}
+    \verb{url}
+    \verb https://www.osapublishing.org/boe/abstract.cfm?uri=boe-3-10-2537
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Biomedical Optics Express}
+    \field{day}{01}
+    \field{month}{10}
+    \field{year}{2012}
     \field{urlday}{30}
     \field{urlmonth}{03}
     \field{urlyear}{2020}
@@ -727,6 +878,43 @@
     \field{year}{2017}
     \field{urlday}{28}
     \field{urlmonth}{02}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{dice_measures_1945}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DLR}{%
+         family={Dice},
+         familyi={D\bibinitperiod},
+         given={Lee\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DLR1}
+    \strng{fullhash}{DLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.2307/1932409
+    \endverb
+    \field{issn}{1939-9170}
+    \field{note}{\_eprint:
+  https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/1932409}
+    \field{number}{3}
+    \field{pages}{297\bibrangedash 302}
+    \field{title}{Measures of the Amount of Ecologic Association Between
+  Species}
+    \verb{url}
+    \verb https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1932409
+    \endverb
+    \field{volume}{26}
+    \field{langid}{english}
+    \field{journaltitle}{Ecology}
+    \field{year}{1945}
+    \field{urlday}{27}
+    \field{urlmonth}{04}
     \field{urlyear}{2020}
   \endentry
 
@@ -2998,6 +3186,23 @@
     \field{month}{04}
     \field{year}{2011}
     \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{adaptive_image}{online}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{The Indiana Adaptive Optics SLOs}
+    \verb{url}
+    \verb https://www.opt.indiana.edu/people/faculty/burns/CenterForOphthalmicI
+    \verb maging/AOSLO.htm#System_Design_and_Performance
+    \endverb
+    \field{day}{27}
+    \field{month}{04}
+    \field{year}{2020}
+    \field{urlday}{27}
     \field{urlmonth}{04}
     \field{urlyear}{2020}
   \endentry

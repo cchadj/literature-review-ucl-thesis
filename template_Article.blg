@@ -2,4 +2,9 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: template_Article.aux
 The style file: biblatex.bst
 Database file #1: template_Article-blx.bib
 Database file #2: biblio.bib
+Repeated entry---line 975 of file biblio.bib
+ : @article{burns_adaptive_2019
+ :                             ,
+I'm skipping whatever remains of this entry
 Biblatex version: 3.13
+(There was 1 error message)
